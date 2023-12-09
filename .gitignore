@@ -1,4 +1,8 @@
-Go_project
-Go_project.exe
+*
+!/**/
+!*.*
 
 .env
+Go_project
+Go_project.exe
+*.exe
